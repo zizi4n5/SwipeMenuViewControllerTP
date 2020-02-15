@@ -1,0 +1,4 @@
+github "yysskk/SwipeMenuViewController" "4.0.0"
+
+# Fix Version
+# github "zizi4n5/SwipeMenuViewController" "fix/reloaddata_and_swipe"

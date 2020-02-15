@@ -1,0 +1,21 @@
+
+/* Class = "UINavigationItem"; title = "Photo Collection"; ObjectID = "0Yc-7z-4Qh"; */
+"0Yc-7z-4Qh.title" = "Photo Collection";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Mio-4P-djD"; */
+"Mio-4P-djD.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "検索条件を保存する"; ObjectID = "Q51-cy-vjJ"; */
+"Q51-cy-vjJ.normalTitle" = "検索条件を保存する";
+
+/* Class = "UINavigationItem"; title = "設定"; ObjectID = "fBM-BS-LjV"; */
+"fBM-BS-LjV.title" = "設定";
+
+/* Class = "UIButton"; normalTitle = "×"; ObjectID = "spe-Kh-HoK"; */
+"spe-Kh-HoK.normalTitle" = "×";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "vIP-J6-RyO"; */
+"vIP-J6-RyO.title" = "Back";
+
+/* Class = "UISearchBar"; placeholder = "どんな写真をお探しですか？"; ObjectID = "vi2-nP-WAV"; */
+"vi2-nP-WAV.placeholder" = "どんな写真をお探しですか？";
